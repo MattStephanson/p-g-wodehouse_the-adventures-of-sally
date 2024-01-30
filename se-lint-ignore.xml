@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-6.xhtml">
+		<ignore>
+			<code>t-052</code>
+			<reason>The stage direction is being read aloud by a character. Under 8.2.5, a trailing comma at the end of dialog is not italicized.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
